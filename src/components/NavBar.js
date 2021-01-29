@@ -15,7 +15,7 @@ export default function NavBar() {
                     <NavLink to="/" exact 
                     activeClassName="text-white"
                     className="inflex-flex items-center py-8 px-3 mr-4 text-red-100 hover:text-green-800 text-4xl font-bold cursive tracking-widest">
-                        Kapehe
+                        Ari
                     </NavLink>
                     <NavLink to="/post" 
                     activeClassName="text-red-100- bg-red-700"  
